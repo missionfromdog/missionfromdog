@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @missionfromdog
-- 👀 I’m interested in data science
-- 🌱 I’m currently overseeing a team of data scientists, developers, and analysts as the product owner for a media management and prediction platform
-- On the side, after completing a data science bootcamp with Metis, I'm continuing to learn sql, probability, stats, python, gcp, looker, bayesian, and anything else I can get my brain on.
+- 👋 Hi, I’m @missionfromdog (Casey Hess/Chicago)
+- 👀 I’m interested in data products, data science, truth with numbers.
+- 🌱 I’m currently overseeing a team of 100+ in data operations, with product development, strategic growth, data science, and over 20 years of leadership in my resume.
+- On the side, after completing a data science bootcamp with Metis, I'm continuing to learn.  From vibe-coding apps to SQL, Python, Machine Learning, Probability/Stats, Bayesian, and anything else I can get my brain on.
+- Familiarity with most cloud platforms (GCP/Biquery/Looker, Databricks, AWS).
 - 📫 How to reach me: linkedin.com/in/caseyhesschicago
 
 <!---
